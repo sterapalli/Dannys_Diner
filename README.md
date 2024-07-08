@@ -429,9 +429,10 @@ GROUP BY sales.customer_id;
 - ```GROUP BY sales.customer_id```: Groups the results by customer, ensuring separate point calculations for each.
 
   **Result**
-|customer_id |	points|
-|------------|-------|
-| A          |	1370  |
-| B          |	820   |
+  
+| customer_id |	points|
+|------------ |------- |
+| A           |	1370  |
+| B           |	820   |
 
 -----------------------------------
